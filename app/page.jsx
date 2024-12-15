@@ -24,7 +24,7 @@ export default function Home() {
           <div className="col-span-4 items-center text-center lg:text-start z-20 mb-6">
             <div>
               <h1 className="font-bebas font-medium text-white text-3xl sm:text-5xl md:text-[66px] lg:text-8xl 2xl:text-9xl lg:bg-[#BD1F17] lg:bg-opacity-60">
-              Pakistan's Largest Platform for Foodies!
+              Pakistan&apos;s Largest Platform for Foodies!
               </h1>
               <p className="text-white text-xl sm:text-xl md:text-2xl lg:text-3xl my-9">
                 One of the best Pakistani chefs in the world, <br /> serving you
